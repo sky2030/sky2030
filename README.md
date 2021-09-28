@@ -2,7 +2,7 @@
 - 👀 I’m interested as working on Latest SPA technologies React JS , Native and Angular.
 - 🌱 I’m currently learning latest upcoming features on Application Development
 
-- 📫 How to reach me mail me @akshitsylvester@gmail.com
+- 📫 How to reach me mail at @akshitsylvester@gmail.com
 
 <!---
 sky2030/sky2030 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
